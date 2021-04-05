@@ -1,5 +1,6 @@
-### Hi there 👋
+Hello there! My name is **Nosaka Tatsuya** and I'm a 14-year-old student with a moderate amount of free time.
 
+## 
 <!--
 **NosakaTatsuya/NosakaTatsuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
